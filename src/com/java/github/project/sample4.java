@@ -1,5 +1,6 @@
 package com.java.github.project;
 
-public class Sample2 {
+public class sample4 
+{
 
 }
